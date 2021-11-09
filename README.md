@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HON35T
+- 👀 I’m interested in everything coding related.
+- 🌱 I’m currently learning swift / swiftUI
+- 📫 How to reach me @honeggerflorian on Twitter.
