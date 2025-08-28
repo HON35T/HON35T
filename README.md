@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @HON35T
 - 👀 I’m interested in everything coding related.
 - 🌱 I’m currently learning DevOps / Software Engineering
-- 📫 How to reach me @honeggerflorian on Twitter.
